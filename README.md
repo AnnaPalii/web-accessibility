@@ -1,2 +1,2 @@
 # web-accessibility
-Make HTML page accessible 
+Code refactoring to improve web-page to follow accessibility standards. 
